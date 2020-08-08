@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Gopalakrishna Sharma</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">This is a long text
+    \n asdfa
+    \n sf
+    \n asf
+    \n as
+    \n fasf
+    \n as
+    \n f
+    \n as
+    \n fa
+    \n sf
+    \n as   \n asdfa
+    \n sf
+    \n asf
+    \n as
+    \n fasf
+    \n as
+    \n f
+    \n as
+    \n fa
+    \n sf
+    \n as   \n asdfa
+    \n sf
+    \n asf
+    \n as
+    \n fasf
+    \n as
+    \n f
+    \n as
+    \n fa
+    \n sf
+    \n as
+    \n fas
+    </string>
+</resources>
