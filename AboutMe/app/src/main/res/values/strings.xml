@@ -36,4 +36,6 @@
     \n as
     \n fas
     </string>
+    <string name="nickname">NickName</string>
+    <string name="done">Done</string>
 </resources>
